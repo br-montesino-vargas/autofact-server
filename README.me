@@ -29,3 +29,8 @@ $ npm install
 $ node index.js
 ```
 Recuerda verificar los dotENV correspondiente para entornos de desarrollo..
+
+Usuarios:
+
+usuario@usuario.cl 123456
+administrador@administrador.cl 123456
